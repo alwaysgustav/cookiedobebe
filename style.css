@@ -1,0 +1,99 @@
+
+.menu{
+	list-style:none;
+	list-style-position: initial;
+	list-style-image: initial;
+	list-style-type: none;
+	background:rgb(102, 51, 0);
+	position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin:0;
+    padding: 0 15px 23px;
+}
+#m1{
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+	float:right;
+    color:white;
+    padding: 14px;
+    position: relative;
+    padding-right: 65px;
+    font-size:18px;
+    top:8px;
+}
+.img2{
+	margin-left:-10px;
+	margin-top: -50px;
+	position: relative;
+    z-index: -1;
+}
+.img1{
+    width: 100px;
+    padding:8px;
+    position: absolute;
+    left: 5px
+  }
+
+body{
+	background-color:rgb(233, 203, 175);
+	overflow:hidden;
+}
+.div1{
+	font-family: Nunito, sans-serif;
+    font-size: 30px;
+	color:white;
+    position: absolute;
+    text-shadow: 2px 2px black;
+}
+#rotate{
+	-webkit-transform: rotate(6deg);
+    transform: rotate(6deg);
+}
+.div2{
+	font-family: Nunito, sans-serif;
+    font-size: 30px;
+    color:white;
+    text-shadow:2px 2px black;
+    position: absolute;
+    top: 20%;
+    bottom: initial;
+    left: 10.5%;
+    max-width: 415px;
+    text-align: left;
+    line-height: 38px;
+    padding: 0;
+
+}
+
+}
+#font2{
+	font-family: Roboto, sans-serif;
+}
+#font1{
+	font-family: Nunito, sans-serif;
+}
+
+#id3{
+	background-color:rgb(102, 51, 0);
+    position: absolute;
+    border-radius: 105px;
+    bottom: 10%;
+    left:38px;
+    padding: 90px 90px 0px 80px;
+    max-width: 600;
+    overflow: hidden;
+}
+
+
+#id4{
+	background-color:rgb(102, 51, 0);
+    position: absolute;
+    border-radius: 105px;
+    bottom: 10%;
+    left:49rem;
+    padding: 90px 90px 0px 80px;
+    max-width: 600;
+    overflow: hidden;
+}
